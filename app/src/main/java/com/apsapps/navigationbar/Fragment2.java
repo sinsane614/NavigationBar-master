@@ -6,6 +6,13 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.Spinner;
+import android.widget.TextView;
+
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
 
 
 /**
@@ -14,9 +21,11 @@ import android.view.ViewGroup;
 public class Fragment2 extends Fragment {
 
 
+
     public Fragment2() {
         // Required empty public constructor
     }
+
 
 
     @Override
@@ -24,6 +33,11 @@ public class Fragment2 extends Fragment {
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         return inflater.inflate(R.layout.fragment_fragment2, container, false);
+
+
+
+
+
     }
 
 }

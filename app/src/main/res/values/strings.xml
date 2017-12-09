@@ -10,13 +10,14 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="autocomplete">Autocomplete</string>
 
-    <string-array name="query_suggestions">
-        <item>Android</item>
-        <item>iOS</item>
-        <item>SCALA</item>
-        <item>Ruby</item>
-        <item>JavaScript</item>
-    </string-array>
+    <array name="arrbuilding">
+        <item>CB1</item>
+        <item>CB2</item>
+        <item>CB3</item>
+        <item>CB4</item>
+        <item>CB5</item>
+        <item>วิศววัฒนะ</item>
+    </array>
     <string name="title_activity_maps">Map</string>
 
 </resources>
