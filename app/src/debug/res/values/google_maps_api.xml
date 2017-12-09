@@ -1,0 +1,46 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=05:2F:70:22:FE:D4:F4:68:D5:B7:A3:FF:64:4C:27:25:C7:12:AA:B3%3Bcom.apsapps.navigationbar
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    05:2F:70:22:FE:D4:F4:68:D5:B7:A3:FF:64:4C:27:25:C7:12:AA:B3
+
+    SHA-1 certificate fingerprint:
+    05:2F:70:22:FE:D4:F4:68:D5:B7:A3:FF:64:4C:27:25:C7:12:AA:B3
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="gAIzaSyDPtzW_u0YB51umZ8QlWv7WM6v8DvTn50U" templateMergeStrategy="preserve" translatable="false">AIzaSyDnuzjwEvg9AA5ab5KgLtOslc_evxmxAGc</string>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=05:2F:70:22:FE:D4:F4:68:D5:B7:A3:FF:64:4C:27:25:C7:12:AA:B3%3Bcom.apsapps.navigationbar
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    05:2F:70:22:FE:D4:F4:68:D5:B7:A3:FF:64:4C:27:25:C7:12:AA:B3
+
+    SHA-1 certificate fingerprint:
+    05:2F:70:22:FE:D4:F4:68:D5:B7:A3:FF:64:4C:27:25:C7:12:AA:B3
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" translatable="false"> AIzaSyD7pnBF3oeh18Q29aFuPl1stUJk5q4xj14 </string>
+</resources>
